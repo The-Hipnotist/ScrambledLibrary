@@ -3,8 +3,6 @@ A library implementation of a non-published repo of mine called Scrambled, a scr
 ---
 All you need is a word and to set 2 parameters.
 
-## Gradio Space version coming soon.
-
 # Example:
 ```python
 from ScrambledLibrary import deviled, sunnysideup, doubleyolk #you can do multiple methods or just 1
