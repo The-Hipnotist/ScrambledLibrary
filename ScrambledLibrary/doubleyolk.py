@@ -1,5 +1,5 @@
 from googletrans import Translator
-import time, threading, threading, sys, os, itertools
+import time, threading, sys, os, itertools
 translator = Translator()
 def scramble(word: str, output_to_file: bool):
     '''
