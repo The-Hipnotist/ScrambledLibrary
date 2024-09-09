@@ -31,17 +31,7 @@ deviled_scramble(text, output_to_file=True)
 ```
 This will save the result to a text file (e.g., `deviled_output.txt`).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## Author
-
-[Your Name or Username]
 
 GitHub: [@The-Hipnotist](https://github.com/The-Hipnotist)
 
