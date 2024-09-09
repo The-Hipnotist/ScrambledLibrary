@@ -11,7 +11,7 @@ pip install git+https://github.com/The-Hipnotist/ScrambledLibrary.git
 
 ## Usage
 ```python
-from scrambled_library import deviled_scramble, sunnysideup_scramble, double_yolk_scramble
+from scrambled_library import deviled_scramble, sunnysideup_scramble, doubleyolk_scramble
 
 text = "The quick brown fox jumps over the lazy dog"
 
